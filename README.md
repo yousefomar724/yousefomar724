@@ -7,7 +7,7 @@ Front-end Developer
 I am a self-taught passionate software engineer focusing on the Frontend web, love learning modern technologies and forms of digital expression, am highly motivated, and aspiring for an opportunity to prove myself.
 
 * 🌍  I'm based in Egypt
-* 🖥️  See my portfolio at [YousefOmar](http://my-minimal-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [YousefOmar](https://yousefomar.vercel.app/)
 * ✉️  You can contact me at [yousefomar724@gmail.com](mailto:yousefomar724@gmail.com)
 * 🚀  I'm currently working as [Freelancer](http://www.upwork.com/freelancers/~01f3b0aa750bb7af05)
 * 🧠  I'm learning Data structure and Algorithms with JavaScript.
