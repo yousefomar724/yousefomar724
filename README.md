@@ -10,7 +10,7 @@ I am a self-taught passionate software engineer focusing on the Frontend web, lo
 * 🖥️  See my portfolio at [YousefOmar](https://yousefomar.vercel.app/)
 * ✉️  You can contact me at [yousefomar724@gmail.com](mailto:yousefomar724@gmail.com)
 * 🚀  I'm currently working as Frontend Developer at [Marvya](https://marvya.de/)
-* 🧠  I'm learning Data structure and Algorithms with JavaScript.
+* 🧠  I'm learning React 19 & Docker.
 
 ### Skills
 
