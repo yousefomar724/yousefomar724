@@ -1,7 +1,7 @@
 Hi 👋 My name is Yousef Omar
 ============================
 
-Front-end Developer
+Frontend Developer
 -------------
 
 I am a self-taught passionate software engineer focusing on the Frontend web, love learning modern technologies and forms of digital expression, am highly motivated, and aspiring for an opportunity to prove myself.
